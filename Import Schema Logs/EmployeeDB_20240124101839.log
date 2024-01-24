@@ -1,0 +1,10 @@
+24-01-2024 15:48:39	This log contains information about the import schema operation into project 'EmployeeDB' on computer 'DESKTOP-KLR24O6' by user 'User'.
+24-01-2024 15:48:39	Deserializing model
+24-01-2024 15:48:39	Resolving model
+24-01-2024 15:48:40	Visiting imported model for types
+24-01-2024 15:48:40	Scanning project for duplicate elements
+24-01-2024 15:48:40	Finished duplicate element processing
+24-01-2024 15:48:41	Processing extra files
+24-01-2024 15:48:41	Finished importing Data-tier Application file.
+24-01-2024 15:48:41	A summary of the import was saved to the following location: D:\migration\EmployeeDB\Import Schema Logs\EmployeeDB_20240124101839.log
+24-01-2024 15:48:41	Click Finish to continue...
