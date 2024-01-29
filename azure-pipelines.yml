@@ -6,8 +6,8 @@
 trigger:
 - main
 
-pool: localhost.localdomain
-
+pool: 
+  name: default
 variables:
   solution: '**/*.sln'
   buildPlatform: 'Any CPU'
