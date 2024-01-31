@@ -35,5 +35,5 @@ steps:
     DatabaseName: 'EmployeeDB'
     SqlUsername: 'adwait'
     SqlPassword: 'Django@13'
-    DacpacFile: '$(System.DefaultWorkingDirectory)/_adwaitpawar_last1/Employee3DB.dacpac'
+    DacpacFile: 'EmployeeDB.dacpac'
     authenticationType: 'server'
