@@ -36,3 +36,4 @@ steps:
     SqlUsername: 'adwait'
     SqlPassword: 'Django@13'
     DacpacFile: 'EmployeeDB.dacpac'
+    authenticationType: 'server'
